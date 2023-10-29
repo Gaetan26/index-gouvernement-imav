@@ -31,7 +31,7 @@ function addItemWidget(item) {
 
 
 const itemsContainer = document.querySelector('#itemsContainer')
-const baseURL = "http://localhost:5500/"
+const baseURL = "https://gaetan26.github.io/index-gouvernement-imav/"
 const requestURL = baseURL + "uploaded/datas.json"
 let request = new XMLHttpRequest()
 let items = new Array()
