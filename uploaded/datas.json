@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Lettre à Glody Mbelani",
+        "description": "Il s'agit de la lettre adressée à Monsieur Glody Mbelani pour le sponsoring",
+        "label": "Document Compressé ZIP",
+        "download_name": "mon-zip.zip",
+        "src": "1.zip"
+    },
+    {
+        "title": "Lettre à Etienne Tadila",
+        "description": "Il s'agit de la lettre adressée à Monsieur Glody Mbelani pour le sponsoring",
+        "label": "Image JPG",
+        "download_name": "mon-image.jpg",
+        "src": "1.jpg"
+    },
+    {
+        "title": "Lettre à l'ITI",
+        "description": "Il s'agit de la lettre adressée à Monsieur Glody Mbelani pour le sponsoring",
+        "label": "Document PDF",
+        "download_name": "mon-pdf.pdf",
+        "src": "1.pdf"
+    }
+]
